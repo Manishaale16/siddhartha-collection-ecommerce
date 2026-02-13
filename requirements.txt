@@ -1,0 +1,27 @@
+# NOTE: This is a Node.js project. Dependencies are managed via package.json.
+# This file is for reference purposes only.
+
+# Backend (Server)
+express
+mongoose
+jsonwebtoken
+bcryptjs
+cors
+dotenv
+morgan
+axios
+
+# Frontend (Client)
+react
+react-dom
+react-router-dom
+axios
+lucide-react
+framer-motion
+tailwindcss
+react-toastify
+
+# Development
+concurrently
+vite
+nodemon
