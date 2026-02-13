@@ -36,6 +36,24 @@ The platform delivers a premium shopping experience with a clean UI, secure auth
 ### 👤 User Profile
 - **Personal Dashboard**: Manage account details and view order status.
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🛍️ Product Listing
+![Product Listing](screenshots/product.png)
+
+### 👗 Product Details
+![Product Details](screenshots/product-details.png)
+
+### 🛒 Cart
+![Cart](screenshots/cart.png)
+
+### 🚚 Checkout
+![Checkout](screenshots/checkout.png)
+
+
 ---
 
 ## 🛠️ Technology Stack
