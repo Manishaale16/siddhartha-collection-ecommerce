@@ -139,13 +139,6 @@ Ecommerce/
 
 ---
 
-## 👩‍💻 Author
-**Manisha Ale**  
-📍 Nepal  
-💼 Full-Stack Web Developer  
-🌐 Passionate about building scalable web solutions and modern UI/UX
-
----
 
 ## 📜 License
 This project is licensed under the MIT License — free to use, modify, and distribute.
